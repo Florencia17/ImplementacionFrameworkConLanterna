@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tp8puntotres">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../tp8puntotres/out/artifacts/tp8puntotres_jar/tp8puntotres.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
